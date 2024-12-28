@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 # MERN APP
 
 ## Vue d'Ensemble
@@ -58,3 +59,6 @@ Docker Compose est utilisé pour gérer les différents services de l'applicatio
 =======
 # TP2 DevOps
 >>>>>>> a345b2c393fbc6ec3db00f7d9ccd183fe6d5de32
+=======
+# tp2_devops
+>>>>>>> a1857a08bf2aff980a57a2a7882ad6e527e9a23f
